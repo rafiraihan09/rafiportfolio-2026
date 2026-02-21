@@ -199,17 +199,17 @@ function App() {
           </div>
 
           <div className="flex gap-8 justify-center mt-16">
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="group text-slate-400 hover:text-blue-400 transition-all duration-300 transform hover:scale-110">
+            <a href="https://github.com/rafiraihan09" target="_blank" rel="noopener noreferrer" className="group text-slate-400 hover:text-blue-400 transition-all duration-300 transform hover:scale-110">
               <div className="p-3 rounded-lg bg-slate-800/50 group-hover:bg-blue-500/10 border border-slate-700/50 group-hover:border-blue-500/30">
                 <Github size={32} />
               </div>
             </a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="group text-slate-400 hover:text-blue-400 transition-all duration-300 transform hover:scale-110">
+            <a href="https://www.linkedin.com/in/raihan-muhammad-rafi-09a785284/?skipRedirect=true" target="_blank" rel="noopener noreferrer" className="group text-slate-400 hover:text-blue-400 transition-all duration-300 transform hover:scale-110">
               <div className="p-3 rounded-lg bg-slate-800/50 group-hover:bg-blue-500/10 border border-slate-700/50 group-hover:border-blue-500/30">
                 <Linkedin size={32} />
               </div>
             </a>
-            <a href="mailto:your.email@example.com" className="group text-slate-400 hover:text-blue-400 transition-all duration-300 transform hover:scale-110">
+            <a href="mailto:raihanrafi065@gmail.com" className="group text-slate-400 hover:text-blue-400 transition-all duration-300 transform hover:scale-110">
               <div className="p-3 rounded-lg bg-slate-800/50 group-hover:bg-blue-500/10 border border-slate-700/50 group-hover:border-blue-500/30">
                 <Mail size={32} />
               </div>
